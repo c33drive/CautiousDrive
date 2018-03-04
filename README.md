@@ -23,3 +23,9 @@ It also informs road users about traffic congestions and accidents within a radi
 
 #### Ensuring minimal interaction between the driver and the device
    * The app detect movement of the car and if the user is the driver when the user tries to use the phone and then the app disables services that the driver was trying to use as well as disable other application that mostly distract drivers when driving.
+
+#### Traffic lights out of order notification
+   * Driver are as well notified about 'robots' that are out of order/ not working .
+
+#### High risk accident zone 
+   * The app warn users to be cautious when approaching high risk  accident zones
