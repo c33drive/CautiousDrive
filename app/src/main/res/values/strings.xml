@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cautious Drive</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="btn_link_to_register">Not a member? Get registered in FireBase now!</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_link_to_login">Already registered. Log Me in</string>
+    <string name="action_sign_in_short">REGISTER</string>
+    <string name="lbl_forgot_password">FORGOT PASSWORD?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to send your password reset instructions</string>
+    <string name="btn_reset_password">RESET PASSWORD</string>
+    <string name="btn_back"> BACK </string>
+    <string name="minimum_password">Please enter at least 6 characters</string>
+    <string name="auth_failed">Email or Password is wrong!</string>
+</resources>
