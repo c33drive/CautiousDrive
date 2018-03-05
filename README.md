@@ -5,16 +5,19 @@ Make the road safe
 
 **cDrive** is a mobile app that helps a vehicle driver to focus on the road by forcing the driver to have minimal interaction with the mobile device while behind the steering wheel.
 
-It also informs road users about traffic congestions and accidents within a radius of certain km from their co-ordinates.
+It also informs road users about traffic congestions,non-functioning traffic lights and accidents within a radius of certain km from their co-ordinates.
 
 
 ## **Functions**
 
 #### Traffic congestion notification
 
-  * When a any user what to post an occurrence of traffic jam  incident on a certain road, the app has just that capability of allowing him/her to do so.
+  * When a any user wants to post an occurrence of traffic jam  incident on a certain road, the app has just that capability of allowing him/her to do so.
 
   * Other users near the same road will then get the notification.
+  #### Non-functioning traffic lights notification
+   * Users can also post an event of an non-functioning traffic light on a certain road.
+   * This is more important as other user will get notification and be warn to drive cautiously when approaching that spot.
 
 #### Accidents notifications
    * Users can also post an event of an accident on a certain road.
@@ -28,4 +31,4 @@ It also informs road users about traffic congestions and accidents within a radi
    * Driver are as well notified about 'robots' that are out of order/ not working .
 
 #### High risk accident zone 
-   * The app warn users to be cautious when approaching high risk  accident zones
+   * The app warn users to be cautious when approaching high risk  accident zones. The user can also view the high risk accident zone via the map
